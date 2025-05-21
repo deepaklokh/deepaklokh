@@ -41,29 +41,12 @@
   Evaluated Facebook vs. AdWords campaigns using A/B testing, regression, and visualization to optimize advertising spend and maximize conversions.  
   [View Notebook](https://github.com/deepaklokh/ab-test-and-regression-project)
 
-- **Stock Trading Strategy Development:**  
-  Created and backtested automated trading strategies with a focus on high ROI (50-100% annually).
-
-- **Customer Behavior Analytics:**  
-  Analyzed purchase patterns and churn rates to inform customer retention strategies.
-
 ---
 
-## 🕒 GitHub Activity Timeline
-
-```mermaid
-gantt
-    title Deepak's Data Journey
-    dateFormat  YYYY-MM-DD
-    section Learning & Growth
-    Python & Data Science      :done, 2022-01-01, 2023-06-01
-    SQL Mastery                :done, 2022-03-01, 2023-08-01
-    BI Tools (Tableau, Power BI):done, 2023-01-01, 2023-12-31
-    Projects & Portfolio       :active, 2023-09-01, 2025-12-31
 📫 How to Reach Me
 •  📧 Email: deepak50384297@gmail.com
 
-•  🔗 LinkedIn: linkedin.com/in/deepak-lokhande-82a887342
+•  🔗 LinkedIn: linkedin.com/in/deepaklokhande
 
 •  💼 GitHub: github.com/deepaklokh
 
