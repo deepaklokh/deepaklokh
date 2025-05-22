@@ -41,6 +41,9 @@
   Evaluated Facebook vs. AdWords campaigns using A/B testing, regression, and visualization to optimize advertising spend and maximize conversions.  
   [View Notebook](https://github.com/deepaklokh/ab-test-and-regression-project)
 
+- **🧠 [SQL LeetCode 50 – Problem Solving Series](https://github.com/deepaklokh/50-SQL-Solved-Questions):**
+ Solved all 50 LeetCode SQL challenges with detailed solutions.  
+🔧 SQL concepts used: JOINs, GROUP BY, HAVING, Subqueries, Window Functions, Filtering, etc.
 ---
 
 📫 How to Reach Me
