@@ -45,10 +45,9 @@
  Solved all 50 LeetCode SQL challenges with detailed solutions.  
 🔧 SQL concepts used: JOINs, GROUP BY, HAVING, Subqueries, Window Functions, Filtering, etc.
 
-- ## Notable Projects
+- ** ✈️ Airline Flight Occupancy Analysis:**
 
-### ✈️ Airline Flight Occupancy Analysis
-**Goal:** Analyzed flight booking and ticketing data to uncover opportunities for increasing seat occupancy and revenue on low-performing routes.
+  Goal: Analyzed flight booking and ticketing data to uncover opportunities for increasing seat occupancy and revenue on low-performing routes.
 
 **Tools:** SQLite, Python, Pandas, Seaborn, Matplotlib
 
@@ -60,7 +59,7 @@
 
 **Outcome:** Found underutilized aircraft models and suggested targeted marketing + dynamic pricing strategies to boost profitability.
 
-🔗 [View Project Notebook](#) *([Add actual link to your notebook or GitHub repo](https://github.com/deepaklokh/airlines-data-analysis))*
+🔗 [View Project Notebook](#) *(https://github.com/deepaklokh/airlines-data-analysis)*
 
 ---
 
