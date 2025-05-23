@@ -27,11 +27,12 @@
 
 ## 🎯 Key Skills
 
-| Python         | SQL            | Excel          | Tableau        | Power BI      |
-|----------------|----------------|----------------|----------------|---------------|
-| Pandas & NumPy | Advanced Queries| Pivot Tables   | Interactive BI | Data Modeling |
-| Matplotlib     | Joins & Filters | Solver         | Calculations   | DAX Formulas  |
-| Seaborn        | Subqueries     | Macros         | Dashboarding   | Custom Visuals|
+| Python           | SQL              | Excel            | Tableau          | Power BI        | AI & Generative AI        |
+|------------------|------------------|------------------|------------------|-----------------|---------------------------|
+| Pandas & NumPy   | Advanced Queries | Pivot Tables     | Interactive BI   | Data Modeling   | Prompt Engineering        |
+| Matplotlib       | Joins & Filters  | Solver           | Calculations     | DAX Formulas    | Generative AI             |
+| Seaborn          | Subqueries       | Macros           | Dashboarding     | Custom Visuals  | AI Model Integration      |
+
 
 ---
 
