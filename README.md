@@ -72,6 +72,22 @@
 
   🔗 [View Project Repository](https://github.com/deepaklokh/Financial_Analysis_CAPM_Project.git)
 
+- **🏨 Hotel Booking Data Analysis:  
+Goal: Analyzed booking cancellation patterns at City and Resort Hotels to identify factors causing high cancellation rates and recommend strategies to reduce cancellations and increase revenue.
+
+   Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
+   Key Features:  
+   - Explored real-world hotel booking data from 2015-2017  
+   - Analyzed cancellation rates by hotel type, month, country, and booking channel  
+   - Investigated price sensitivity and seasonal trends affecting cancellations  
+   - Visualized findings with bar graphs, line charts, and grouped plots  
+   - Provided actionable recommendations on pricing, discounts, and marketing campaigns
+
+Outcome: Identified price as a key cancellation driver and proposed targeted discounting and promotional strategies, especially for resort hotels and high-risk periods like January.
+🔗 [GitHub Repository](https://github.com/deepaklokh/hotel-booking-data-analysis)
+
+
 
 ---
 
