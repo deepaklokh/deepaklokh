@@ -59,7 +59,7 @@
 
 **Outcome:** Found underutilized aircraft models and suggested targeted marketing + dynamic pricing strategies to boost profitability.
 
-🔗 [View Project Notebook](#) *(https://github.com/deepaklokh/airlines-data-analysis)*
+🔗 [View Project Notebook](#) *(https://github.com/deepaklokh/Financial_Analysis_CAPM_Project.git)*
 
 ---
 
