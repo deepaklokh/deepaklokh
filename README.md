@@ -9,9 +9,9 @@
 
 ---
 
-🌟 **Passionate about turning data into actionable insights** that drive business growth and smart decisions.
+🌟 **Passionate about harnessing AI to accelerate data analysis, amplify actionable insights, and drive smarter, faster business decisions — transforming complexity into efficiency and impact.
 
-🔍 I specialize in **data cleaning, visualization, statistical analysis, and building data-driven solutions** to optimize processes and maximize ROI.
+🔍 I specialize in data cleaning, visualization, statistical analysis, and building data-driven solutions—leveraging AI to automate workflows, uncover deeper insights faster, and optimize processes for maximum ROI. 
 
 ---
 
