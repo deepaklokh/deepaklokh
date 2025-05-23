@@ -41,25 +41,37 @@
   Evaluated Facebook vs. AdWords campaigns using A/B testing, regression, and visualization to optimize advertising spend and maximize conversions.  
   [View Notebook](https://github.com/deepaklokh/ab-test-and-regression-project)
 
-- **🧠 [SQL LeetCode 50 – Problem Solving Series](https://github.com/deepaklokh/50-SQL-Solved-Questions):**
- Solved all 50 LeetCode SQL challenges with detailed solutions.  
-🔧 SQL concepts used: JOINs, GROUP BY, HAVING, Subqueries, Window Functions, Filtering, etc.
+- **🧠 [SQL LeetCode 50 – Problem Solving Series](https://github.com/deepaklokh/50-SQL-Solved-Questions):**  
+  Solved all 50 LeetCode SQL challenges with detailed solutions.  
+  🔧 SQL concepts used: JOINs, GROUP BY, HAVING, Subqueries, Window Functions, Filtering, etc.
 
-- ** ✈️ Airline Flight Occupancy Analysis:**
-
+- **✈️ Airline Flight Occupancy Analysis:**  
   Goal: Analyzed flight booking and ticketing data to uncover opportunities for increasing seat occupancy and revenue on low-performing routes.
 
-**Tools:** SQLite, Python, Pandas, Seaborn, Matplotlib
+  **Tools:** SQLite, Python, Pandas, Seaborn, Matplotlib
 
-**Key Features:**
-- Connected and explored the airline's relational database (`travel.sqlite`)
-- Analyzed occupancy rates by aircraft type and fare condition
-- Identified booking trends, seasonality, and revenue gaps
-- Visualized key insights using plots and heatmaps
+  **Key Features:**  
+  - Connected and explored the airline's relational database (`travel.sqlite`)  
+  - Analyzed occupancy rates by aircraft type and fare condition  
+  - Identified booking trends, seasonality, and revenue gaps  
+  - Visualized key insights using plots and heatmaps
 
-**Outcome:** Found underutilized aircraft models and suggested targeted marketing + dynamic pricing strategies to boost profitability.
+  **Outcome:** Found underutilized aircraft models and suggested targeted marketing + dynamic pricing strategies to boost profitability.
 
-🔗 [View Project Notebook](#) *(https://github.com/deepaklokh/Financial_Analysis_CAPM_Project.git)*
+  🔗 [View Project Notebook](https://github.com/deepaklokh/airlines-data-analysis)
+
+- **💹 Financial Analysis CAPM Project:**  
+  Developed a Streamlit app to analyze stock risk and expected return using the Capital Asset Pricing Model (CAPM). Fetches real-time stock data, calculates beta, and visualizes stock vs. market returns.
+
+  **Technologies:** Python, Streamlit, yfinance, NumPy, pandas, matplotlib, seaborn, scikit-learn
+
+  **Key Features:**  
+  - Input any stock ticker and risk-free rate  
+  - Calculates expected return and beta from historical data  
+  - Interactive plots of daily returns and regression analysis  
+
+  🔗 [View Project Repository](https://github.com/deepaklokh/Financial_Analysis_CAPM_Project.git)
+
 
 ---
 
