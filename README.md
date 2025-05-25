@@ -42,9 +42,11 @@
   Evaluated Facebook vs. AdWords campaigns using A/B testing, regression, and visualization to optimize advertising spend and maximize conversions.  
   [View Notebook](https://github.com/deepaklokh/ab-test-and-regression-project)
 
+
 - **🧠 [SQL LeetCode 50 – Problem Solving Series](https://github.com/deepaklokh/50-SQL-Solved-Questions):**  
   Solved all 50 LeetCode SQL challenges with detailed solutions.  
   🔧 SQL concepts used: JOINs, GROUP BY, HAVING, Subqueries, Window Functions, Filtering, etc.
+
 
 - **✈️ Airline Flight Occupancy Analysis:**  
   Goal: Analyzed flight booking and ticketing data to uncover opportunities for increasing seat occupancy and revenue on low-performing routes.
@@ -61,6 +63,7 @@
 
   🔗 [View Project Notebook](https://github.com/deepaklokh/airlines-data-analysis)
 
+
 - **💹 Financial Analysis CAPM Project:**  
   Developed a Streamlit app to analyze stock risk and expected return using the Capital Asset Pricing Model (CAPM). Fetches real-time stock data, calculates beta, and visualizes stock vs. market returns.
 
@@ -72,6 +75,7 @@
   - Interactive plots of daily returns and regression analysis  
 
   🔗 [View Project Repository](https://github.com/deepaklokh/Financial_Analysis_CAPM_Project.git)
+
 
 - **🏨 Hotel Booking Data Analysis:  
 Goal: Analyzed booking cancellation patterns at City and Resort Hotels to identify factors causing high cancellation rates and recommend strategies to reduce cancellations and increase revenue.
@@ -85,8 +89,18 @@ Goal: Analyzed booking cancellation patterns at City and Resort Hotels to identi
    - Visualized findings with bar graphs, line charts, and grouped plots  
    - Provided actionable recommendations on pricing, discounts, and marketing campaigns
 
-Outcome: Identified price as a key cancellation driver and proposed targeted discounting and promotional strategies, especially for resort hotels and high-risk periods like January.
-🔗 [GitHub Repository](https://github.com/deepaklokh/hotel-booking-data-analysis)
+       Outcome: Identified price as a key cancellation driver and proposed targeted discounting and promotional strategies, especially for resort hotels and high-risk periods like 
+       January.
+   🔗 [GitHub Repository](https://github.com/deepaklokh/hotel-booking-data-analysis)
+
+
+- **📊 HR Analytics Dashboard:**
+  
+    Goal: Delivered an interactive Power BI dashboard to provide comprehensive insights into employee demographics, performance, attendance, and recruitment trends to support data- 
+    driven HR decisions.
+
+   Tools: Power BI, DAX, Excel, HR Dataset (CSV)
+🔗 [GitHub Repository](https://github.com/deepaklokh/HR-Analytics-Dashboard-PowerBI)
 
 
 
