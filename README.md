@@ -103,6 +103,13 @@ Goal: Analyzed booking cancellation patterns at City and Resort Hotels to identi
 🔗 [GitHub Repository](https://github.com/deepaklokh/HR-Analytics-Dashboard-PowerBI)
 
 
+- **🔹 [Maximizing Revenue for Drivers Through Payment Type](https://github.com/deepaklokh/Maximizing-Revenue-Drivers)
+   - 🧠 A data-driven project leveraging NYC Taxi dataset to uncover how fare revenue varies by payment method.
+   - 🧹 Includes data cleaning, EDA, regression, hypothesis testing, and actionable business recommendations.
+   - 📊 Visuals include card-vs-cash fare comparison, trip distance distribution, and payment type breakdown.
+   - 📌 Tools: Python (pandas, matplotlib, seaborn), statistical testing, regression modeling, storytelling.
+
+
 
 ---
 
