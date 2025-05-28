@@ -110,6 +110,16 @@ Goal: Analyzed booking cancellation patterns at City and Resort Hotels to identi
    - 📌 Tools: Python (pandas, matplotlib, seaborn), statistical testing, regression modeling, storytelling.
 
 
+- **[User Engagement Analysis Using Python and SQL](https://github.com/deepaklokh/user-engagement-analysis)**  
+  📊 *Exploratory Data Analysis* on Yelp data to identify how user reviews, tips, check-ins, and elite users contribute to restaurant success.  
+  🛠 **Tools:** Python, Pandas, SQL, Matplotlib, Seaborn  
+  📌 Key Insights:  
+    - Correlation between user engagement & success metrics  
+    - Sentiment features (`useful`, `cool`, `funny`) as indicators of satisfaction  
+    - Trend analysis across states, elite user impact, and peak hours  
+  📎 Includes: Visualizations, Cleaned Data  
+
+
 
 ---
 
