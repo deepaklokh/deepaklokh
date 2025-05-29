@@ -121,14 +121,12 @@ Goal: Analyzed booking cancellation patterns at City and Resort Hotels to identi
 
 
 - 📊 AI Data Analyst Chatbot
-
   **Technologies:** Python, Jupyter Notebook, Groq API, Matplotlib, Pandas, Seaborn
-
-   **Description:**  
+  **Description:**  
    - Developed an AI-powered data analyst chatbot using Jupyter Notebook and Groq API, enabling users to upload datasets (CSV/XLSX) and interact with their data through natural language      queries.
    - Features include exploratory data analysis, automatic chart generation, A/B testing, and predictive insights. Integrated visualization tools provide clear and actionable business        intelligence.
-
-      **GitHub:** [https://github.com/deepaklokh/ai-data-analyst-chatbot](https://github.com/deepaklokh/ai-data-analyst-chatbot)
+     
+   **GitHub:** [https://github.com/deepaklokh/ai-data-analyst-chatbot](https://github.com/deepaklokh/ai-data-analyst-chatbot)
 
 
 
