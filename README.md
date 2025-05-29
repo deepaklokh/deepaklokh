@@ -117,7 +117,19 @@ Goal: Analyzed booking cancellation patterns at City and Resort Hotels to identi
     - Correlation between user engagement & success metrics  
     - Sentiment features (`useful`, `cool`, `funny`) as indicators of satisfaction  
     - Trend analysis across states, elite user impact, and peak hours  
-  📎 Includes: Visualizations, Cleaned Data  
+  📎 Includes: Visualizations, Cleaned Data
+
+
+- 📊 AI Data Analyst Chatbot
+
+  **Technologies:** Python, Jupyter Notebook, Groq API, Matplotlib, Pandas, Seaborn
+
+   **Description:**  
+   - Developed an AI-powered data analyst chatbot using Jupyter Notebook and Groq API, enabling users to upload datasets (CSV/XLSX) and interact with their data through natural language      queries.
+   - Features include exploratory data analysis, automatic chart generation, A/B testing, and predictive insights. Integrated visualization tools provide clear and actionable business        intelligence.
+
+      **GitHub:** [https://github.com/deepaklokh/ai-data-analyst-chatbot](https://github.com/deepaklokh/ai-data-analyst-chatbot)
+
 
 
 
